@@ -1,4 +1,4 @@
-# Wuxn WXR Mainboard Firmware
+# Wuxn WXR Marlin Firmware
 
 This repository contains the source code and the development versions of the firmware running on the Wuxn WXR mainboard.
 
