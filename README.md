@@ -32,5 +32,6 @@ https://github.com/MarlinFirmware/Marlin
 <details>
 <summary>BTT TFT Firmware</summary>
 <br>
-Please visit the BIGTREETECH-TouchScreenFirmware Github page to learn how to compile the Wuxn Firmware. 
+Please visit the BIGTREETECH-TouchScreenFirmware Github page to learn how to compile the Wuxn Firmware.
+https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware
 </details>
