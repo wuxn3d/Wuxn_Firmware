@@ -5,3 +5,25 @@ Wuxn Firmware is used to power a Wuxn WXR 3D printer. The firmware has been fork
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65782241/213582292-2fd3b5b3-e5ec-4ea1-b3fc-263f71906423.png" width=60% height=60%>
 </p>
+
+Wuxn Firmware Main Features:
++ Plug-&-Play Simplicity
++ User-Friendly Interface
++ Unmatched Printing Precision
++ Automated Interaction
++ Flawless First Layer
++ Automatic Gantry Alignment
++ Seven Wuxn Wizards
+
+## Binaries
+
+This repository contains the source code needed to compile and build Wuxn Firmware. 
+To use Wuxn Firmware as intended please download our binaries from our website at https://wuxn3d.com/pages/software-firmware.
+
+# Compiling
+
+<details>
+<summary>Marlin Firmware</summary>
+<br>
+Please visit the MarlinFirmware page to learn how to compile the Wuxn Firmware. 
+</details>
