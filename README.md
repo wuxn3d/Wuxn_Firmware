@@ -38,7 +38,7 @@ https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware
 
 # License 
 
-Wuxn Firmware is liscensed under the GNU GPL 3 license. The Wuxn Firmware is orginally based on Marlin 2.0.x by Scott Lahteine (@thinyhead) and BTT TFT 43 firmware by BIQU. 
+Wuxn Firmware is liscensed under the GNU GPL 3 license. The firmware for the Wuxn 3D printers is proudly based on Marlin 2.0.x by Scott Lahteine and 
 
 # Disclaimer
 
