@@ -35,3 +35,20 @@ https://github.com/MarlinFirmware/Marlin
 Please visit the BIGTREETECH-TouchScreenFirmware Github page to learn how to compile the Wuxn Firmware.
 https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware
 </details>
+
+# License 
+
+Wuxn Firmware is liscensed under the GNU GPL 3 license. The Wuxn Firmware is orginally based on Marlin 2.0.x by Scott Lahteine (@thinyhead) and BTT TFT 43 firmware by BIQU. 
+
+# Disclaimer
+
+There is no warranty for the program, to the extent permitted by applicable law.  Wuxn provides this program "as is" without warrenty of any kind, either expressed or implied, inlcuding, but not limited to, the implied warrenties of merchantability and fitness for a particular purpose.  The entire risk as to the quality and performance of the program is with you.  
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+<footer>
+Published by Wuxn LLC. 
+*
+www.wuxn3d.com
+*
+info@wuxn3d.com.
+
