@@ -25,7 +25,8 @@ To use Wuxn Firmware as intended please download our binaries from our website a
 <details>
 <summary>Marlin Firmware</summary>
 <br>
-Please visit the MarlinFirmware Github page to learn how to compile the Wuxn Firmware. 
+Please visit the MarlinFirmware Github page to learn how to compile the Wuxn Firmware.
+https://github.com/MarlinFirmware/Marlin
 </details>
 
 <details>
