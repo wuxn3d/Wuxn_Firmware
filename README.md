@@ -7,13 +7,11 @@ Wuxn Firmware is used to power a Wuxn WXR 3D printer. The firmware has been fork
 </p>
 
 Wuxn Firmware Main Features:
-+ Plug-&-Play Simplicity
 + User-Friendly Interface
-+ Unmatched Printing Precision
-+ Automated Interaction
-+ Flawless First Layer
++ Simple access to Common Tools
++ First Layer Automatic Adjustment
 + Automatic Gantry Alignment
-+ Seven Wuxn Wizards
++ Multiple Guided Adjustment Wizards
 
 ## Binaries
 
