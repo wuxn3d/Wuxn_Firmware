@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/65782241/213610110-17dafd89-4599-49ef-aaa0-7481d9e8b1b8.png" widtd=50% height=50%>
+<img src="https://user-images.githubusercontent.com/65782241/213610110-17dafd89-4599-49ef-aaa0-7481d9e8b1b8.png" width=30% height=30%>
 
 Wuxn Firmware is used to power a Wuxn WXR 3D printer. The firmware has been forked from MarlinFirmware and BIGTREETECH-TouchScreenFirmware. The firmware has been modified to enchance the print performance, quality, strength, and speed of the Wuxn WXR 3D printer. Along with increased print quality and throughput the 3D printing experience has been dramatically simpliefied through the use of Wuxn Wizards. The Wuxn Wizards help guide the user through the use of their machine while simultaneoulsy calibrating itself. 
 
